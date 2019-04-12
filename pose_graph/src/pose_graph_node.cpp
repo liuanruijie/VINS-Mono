@@ -46,7 +46,7 @@ int ROW;
 int COL;
 int DEBUG_IMAGE;
 int VISUALIZE_IMU_FORWARD;
-int LOOP_CLOSURE;
+int LOOP_CLOSURE; // 开启循环
 int FAST_RELOCALIZATION;
 
 camodocal::CameraPtr m_camera;
